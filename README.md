@@ -10,7 +10,7 @@
 ### How to Compile
 Usage: ./monty [filename]
 ```
-$ git clone https://github.com/MelissaN/monty
+$ git clone https://github.com/akubosylva/monty
 $ cd monty
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 $ ./monty bytecodes/000.m
